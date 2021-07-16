@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117528240827",
+    "project_id": "kidding--n-learning",
+    "storage_bucket": "kidding--n-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117528240827:android:d00c44de1714cabf2e7f9e",
+        "android_client_info": {
+          "package_name": "com.exemplo.quizkdl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117528240827-tgo65fijfdeqp65koi5nk99mf68qvq6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkbtgX7XT2cB2GIikKhRqgmyO0H317gSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117528240827-tgo65fijfdeqp65koi5nk99mf68qvq6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
